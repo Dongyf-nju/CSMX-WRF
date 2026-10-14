@@ -44,3 +44,4 @@ Before running, set the paths and experiment parameters at the bottom of `recycl
 ## Citation
 
 If you use this code, please cite the associated paper (IJOC submission).
+Dong, Y., Zhang, G., Wang, S., Yuan, H., Guo, W., & Tang, J. (2026). Impacts of machine learning-based soil moisture data on convective-permitting regional climate simulations over eastern China. *International Journal of Climatology*. Manuscript submitted for publication.
